@@ -57,6 +57,11 @@ Minha última músiquinha
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=xjfr31uvwur1twtai7otlg1u4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true%22">
 </div>
   
+<br><br>
+<h2 align="center">
+Github Streak
+</h2>
+  
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=WallisonRP&theme=neon-dark&hide_border=true&background=DD272700">
 </div>
