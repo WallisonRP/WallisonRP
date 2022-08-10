@@ -58,5 +58,5 @@ Minha última músiquinha
 </div>
   
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=PedroLuisBrilhadori&theme=neon-dark&hide_border=true&background=DD272700">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=WallisonRP&theme=neon-dark&hide_border=true&background=DD272700">
 </div>
